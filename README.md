@@ -53,7 +53,7 @@ It includes variables such as:
 This dataset is clean and ready for exploration, making it ideal for practicing exploratory data analysis and visualization.
 
 ### Source
-[Seaborn Penguins Dataset Documentation](https://seaborn.pydata.org/data.html#penguins)
+[Seaborn Built-In Datasets](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
 
 ### Why This Dataset
 - Clean and well-structured  
