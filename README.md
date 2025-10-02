@@ -34,3 +34,29 @@ pandas
 pyarrow
 matplotlib
 seaborn
+
+---
+
+## Dataset Description
+
+### Dataset Chosen
+**Seaborn Penguins Dataset**
+
+### Description
+The penguins dataset contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.  
+It includes variables such as:
+- **species** (Adelie, Chinstrap, Gentoo)  
+- **island** (Biscoe, Dream, Torgersen)  
+- **bill_length_mm**, **bill_depth_mm**, **flipper_length_mm**, **body_mass_g**  
+- **sex**
+
+This dataset is clean and ready for exploration, making it ideal for practicing exploratory data analysis and visualization.
+
+### Source
+[Seaborn Penguins Dataset Documentation](https://seaborn.pydata.org/data.html#penguins)
+
+### Why This Dataset
+- Clean and well-structured  
+- Includes both categorical and numerical features  
+- Suitable for descriptive statistics, visualizations, and exploring relationships  
+- Widely used for EDA practice and beginner-friendly
